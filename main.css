@@ -76,11 +76,13 @@ footer{
   
   text-align: center;
   padding: 5px;
-  right: 0;
+  width: 100%;
   bottom: 0;
-  left: 0;
+  position: relative;
+  top:200px;
+  
   box-sizing: inherit;
-  position: absolute;
+  
   background: #666666
  
 }
