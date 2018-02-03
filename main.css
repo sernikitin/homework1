@@ -161,3 +161,71 @@ input[type=submit]:hover {
        max-width: 100%;
     }
 }
+
+
+
+.module {
+    margin: 10px;
+    width: 289px;
+    height: 150px;
+    float: left;
+    background: url(https://media.giphy.com/media/l0DELhp35jGnDHxSM/giphy-downsized.gif);
+    background-size: cover;
+    position: relative;
+  }
+  .module1 {
+    margin: 10px;
+    width: 289px;
+    height: 150px;
+    float: left;
+    background: url(https://media.giphy.com/media/l4Jz3a8jO92crUlWM/giphy-tumblr.gif);
+    background-size: cover;
+    position: relative;
+  }
+  .module2 {
+    margin: 10px;
+    width: 289px;
+    height: 150px;
+    float: left;
+    background: url(https://media.giphy.com/media/JVPG11b2Ox1kc/giphy-downsized.gif);
+    background-size: cover;
+    position: relative;
+  }
+  
+  .module3 {
+    margin: 10px;
+    width: 289px;
+    height: 150px;
+    float: left;
+    background: url(https://media.giphy.com/media/kTEYhxmye2PDO/giphy-downsized.gif);
+    background-size: cover;
+    position: relative;
+  }
+  .module4 {
+    margin: 10px;
+    width: 289px;
+    height: 150px;
+    float: left;
+    background: url(https://media.giphy.com/media/y0QriqSs8MfrW/giphy-downsized.gif);
+    background-size: cover;
+    position: relative;
+  }
+  
+  
+  
+  h2 {
+    position: absolute;
+    bottom: 10px;
+    width: 100%;
+    height: 24px;
+    text-align: center;
+    padding: 4px 8px;
+    
+    margin: 0;
+    font: 14px Sans-Serif;
+  }
+  
+  .opp h2 {
+    background: rgba(216, 250, 213, 0.75);
+    color: black;
+  }
